@@ -14,12 +14,25 @@ h1 {
 }
 
 .navbar-wrapper {
-  box-shadow: 0px 0px 15px rgba(251, 75, 0, 0.15);
-
+  box-shadow: 0px 0px 15px rgba(247, 74, 5, 0.15);
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 2;
   background: white;
+  
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 5rem;
+}
+
+.layout {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 68.75rem;
 }
