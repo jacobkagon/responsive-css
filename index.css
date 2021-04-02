@@ -36,3 +36,7 @@ h1 {
   margin: 0 auto;
   max-width: 68.75rem;
 }
+
+img {
+  max-width: 100%;
+}
