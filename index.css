@@ -38,5 +38,39 @@ h1 {
 }
 
 img {
-  max-width: 100%;
+  width: 50%;
 }
+
+.header {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin: 15px 10px;
+}
+.navbar__li {
+  
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin: 5em 10px;
+}
+
+li:hover {
+  color: agua;
+
+}
+
+#hero{
+  margin: 100px 50px;
+}
+.panda-info {
+  float: left;
+}
+
+
+
+
+
